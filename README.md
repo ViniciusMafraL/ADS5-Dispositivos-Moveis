@@ -1,2 +1,2 @@
-# ADS-Arquitetura-WEB
-Entrega de exercicios Arquitetura WEB - Facens
+# ADS-Dispositivos-Moveis
+Entrega de exercicios Dispositivos Moveis - Facens

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExemploAPI</string>
+    <string name="urlApi">http://localhost:8080/</string>
+</resources>
